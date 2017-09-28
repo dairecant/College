@@ -1,4 +1,4 @@
- Language setting http://docs.shippable.com/ci/languages/java/
+ #Language setting http://docs.shippable.com/ci/languages/java/
 language: Java
 
 # use this to control what branches get built.
