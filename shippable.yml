@@ -1,5 +1,5 @@
  Language setting http://docs.shippable.com/ci/languages/java/
-language: java
+language: Java
 
 # use this to control what branches get built.
 # http://docs.shippable.com/ci/advancedOptions/branches/
@@ -39,7 +39,7 @@ integrations:
   notifications:
   # turning of email for PR builds, get notified only on failure and change in status
   # http://docs.shippable.com/integrations/notifications/email/
-    - integrationName: email
+    - integrationName: dairecan11@gmail.com
       type: email
       on_success: change
       on_failure: always
